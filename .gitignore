@@ -1,0 +1,7 @@
+*.conf
+-example.conf
+.*.sw?
+log.txt
+.gd/
+live_mainwp/
+live_members_org/
